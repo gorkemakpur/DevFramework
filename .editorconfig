@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# PostSharpSymbolLocationAnalyzer: PostSharp symbol location database analyzer
+dotnet_diagnostic.PostSharpSymbolLocationAnalyzer.severity = warning
